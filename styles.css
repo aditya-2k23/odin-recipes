@@ -1,0 +1,29 @@
+h1 {
+  background-color: lightpink;
+  text-align: center;
+}
+
+ul {
+  padding: 10px;
+  background-color: rosybrown;
+}
+
+li {
+  list-style: none;
+}
+
+li a {
+  text-decoration: none;
+  color: rgb(20, 66, 163);
+  font-weight: bold;
+}
+
+li a:hover {
+  color: #e0d9d9;
+  text-decoration: underline;
+}
+
+li a:active {
+  color: lightpink;
+  text-decoration: none;
+}
